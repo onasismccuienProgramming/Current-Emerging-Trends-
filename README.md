@@ -11,5 +11,6 @@
 Computer sienctists work to make life easier and safer for humanity.  AI has helped people to walk, live longer, see, etc..
 #How do I approach a problem as a computer scientist?
 First, I will try to analyze how I can simplify the situation.  Next, I will try to apply AI in some form or fasion to the equation.  Remember, I am trying to improve something by introducing AI, not the opposite.
+
 #What are my ethical responsibilities to the end user and the organization?
 Make sure that the program for the AI is safe, and unbiased.
